@@ -1,0 +1,979 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #f9f9f9;
+}
+
+html {
+  font-size: 100%;
+  overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.btn {
+  max-width: 200px;
+}
+
+
+.don {
+
+  width: 10rem;
+  border-radius: none;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  background-color: #2c87c5;
+  border-color: transparent;
+
+}
+
+.laxman {
+  border-radius: none;
+}
+
+.ktmrc {
+  width: 10rem;
+  border-radius: none;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+  background-color: #2c87c5;
+  border-color: transparent;
+  height: 3rem;
+
+
+}
+
+.sex {
+  background-color: #2c87c5;
+  font-size: 15px;
+  font-weight: bold;
+  width: 7.1rem;
+  color: white;
+  border-radius: none;
+  padding: 2px 0px 2px 0px;
+  border-color: transparent;
+  height: 55px;
+
+
+}
+
+.term {
+  width: 40%;
+  border-radius: 2px;
+  font-size: 14px;
+  /* font-weight: bold;*/
+  text-decoration: none;
+  color: white;
+  background-color: #2c87c5;
+  border-color: transparent;
+  height: 1.8rem;
+
+}
+
+.mom {
+  border-radius: none;
+}
+
+.vikram {
+  color: #006cff;
+  text-decoration: none;
+}
+
+.vaishu li {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  list-style: none;
+  padding-left: 7px;
+  padding-right: 7px;
+  font: 1rem asap, arial;
+  color: #0093ff;
+  letter-spacing: 0;
+}
+
+.vaishu {
+  display: flex;
+  flex-direction: row;
+}
+
+.jungle {
+  text-align: center;
+  font: 17px "source sans pro", arial;
+}
+
+
+/*.grid {
+
+  @media screen and (min-width: 921px) {
+     width: 500px;
+  }
+}*/
+
+@media screen and (max-width: 921px) {
+  .grid {
+    width: 600px;
+  }
+}
+
+
+@media screen and (max-width: 629px) {
+  .grid {
+    width: 490px;
+  }
+}
+
+@media screen and (max-width: 666px) {
+  .grid {
+    width: 400px;
+  }
+}
+
+@media screen and (max-width: 636px) {
+  .morjim {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 624px) {
+  .createaccountdiv {
+    width: 400px;
+    text-align: center;
+  }
+
+  .fontwo {
+    text-align: center;
+  }
+
+}
+
+@media screen and (max-width: 827px) {
+  .one {
+    max-width: 640px;
+  }
+
+  .jadu {
+    max-width: 640px;
+  }
+
+  .divya {
+    max-width: 640px;
+  }
+
+  .fonts {
+    padding-top: 13px;
+  }
+
+}
+
+@media screen and (max-width: 680px) {
+  .one {
+    max-width: 600px;
+
+  }
+
+  .divya {
+    max-width: 600px;
+  }
+
+  .jadu {
+    max-width: 600px;
+  }
+
+  .two {
+    width: 450px;
+  }
+
+  .jivan {
+    max-width: 500px;
+  }
+
+  .createaccount {
+
+    width: 400px;
+  }
+
+  .fonts {
+    font-size: 22px;
+  }
+
+  .lets {
+    font-size: 26px;
+  }
+}
+
+
+@media screen and (max-width: 630px) {
+  .one {
+    max-width: 500px;
+
+  }
+
+  .jadu {
+    max-width: 500px;
+  }
+
+
+  .divya {
+    max-width: 500px;
+  }
+
+  .two {
+    width: 400px;
+  }
+
+  .jivan {
+    max-width: 400px;
+  }
+
+  .createaccount {
+
+    width: 300px;
+  }
+
+  .fonts {
+    font-size: 22px;
+  }
+}
+
+
+@media screen and (max-width: 543px) {
+  .one {
+    max-width: 450px;
+
+  }
+
+  .jadu {
+    max-width: 450px;
+  }
+
+  .jadu {
+    height: 17rem;
+  }
+
+  .divya {
+    max-width: 400px;
+  }
+
+  .two {
+    width: 350px;
+  }
+
+  .lets {
+    font: bold 30px asap, arial;
+    color: #505050;
+    letter-spacing: -1px;
+  }
+
+  .jivan {
+    max-width: 300px;
+  }
+
+  .createaccount {
+
+    width: 200px;
+  }
+
+  .fonts {
+    font-size: 19px;
+  }
+
+  .one {
+    height: 18.5rem;
+  }
+
+  .lion {
+    font: 18px "source sans pro", arial;
+    color: #202020;
+    line-height: 1.5;
+    text-align: left;
+    padding: 0 0 0 2px;
+    text-align: center;
+  }
+
+}
+
+
+.robot {
+  max-width: 550px;
+}
+
+
+
+@media screen and (max-width: 479px) {
+  .one {
+    max-width: 410px;
+
+  }
+
+  .jadu {
+    max-width: 410px;
+  }
+
+  .jadu {
+    height: 17rem;
+  }
+
+  .divya {
+    max-width: 400px;
+  }
+
+  .two {
+    width: 350px;
+  }
+
+  .lets {
+    font: bold 30px asap, arial;
+    color: #505050;
+    letter-spacing: -1px;
+  }
+
+  .jivan {
+    max-width: 300px;
+  }
+
+  .createaccount {
+
+    width: 200px;
+  }
+
+  .fonts {
+    font-size: 16px;
+  }
+
+  .one {
+    height: 18.5rem;
+  }
+
+  .lion {
+    font: 16px "source sans pro", arial;
+    color: #202020;
+    line-height: 1.5;
+    text-align: left;
+    padding: 0 0 0 2px;
+    text-align: center;
+  }
+
+}
+
+
+
+@media screen and (max-width: 440px) {
+  .one {
+    max-width: 390px;
+
+  }
+
+  .jadu {
+    max-width: 390px;
+  }
+
+  .jadu {
+    height: 60vh;
+  }
+
+  .divya {
+    max-width: 390px;
+  }
+
+  .two {
+    width: 350px;
+  }
+
+  .lets {
+    font: bold 28px asap, arial;
+    color: #505050;
+    letter-spacing: -1px;
+  }
+
+  .jivan {
+    max-width: 250px;
+  }
+
+  .createaccount {
+
+    width: 200px;
+  }
+
+  .fonts {
+    font-size: 16px;
+  }
+
+  .one {
+    height: 18.5rem;
+  }
+
+  .lion {
+    font: 16px "source sans pro", arial;
+    color: #202020;
+    line-height: 1.5;
+    text-align: left;
+    padding: 0 0 0 2px;
+    text-align: center;
+  }
+
+  .divya {
+    max-width: 390px;
+  }
+
+  .morjim {
+    font-size: 12px;
+  }
+
+  .two {
+    max-width: 80vw;
+  }
+
+  .createaccountdiv {
+    width: 70vw;
+
+  }
+
+  @media screen and (max-width: 921px) {
+    .grid {
+      width: 80%;
+    }
+  }
+
+}
+
+
+@media screen and (max-width: 440px) {
+  .doll {
+    display: none;
+  }
+}
+
+
+
+
+@media screen and (max-width: 399px) {
+  .one {
+    max-width: 90vw;
+
+
+  }
+
+  .jadu {
+    max-width: 90vw;
+  }
+
+  .jadu {
+    height: 78vh;
+  }
+
+  .divya {
+    max-width: 350px;
+  }
+
+  .two {
+    width: 350px;
+  }
+
+  .lets {
+    font: bold 28px asap, arial;
+    color: #505050;
+    letter-spacing: -1px;
+  }
+
+  .jivan {
+    max-width: 250px;
+  }
+
+  .createaccount {
+
+    width: 200px;
+  }
+
+  .fonts {
+    font-size: 16px;
+  }
+
+  .one {
+    height: 18.5rem;
+  }
+
+  .lion {
+    font: 16px "source sans pro", arial;
+    color: #202020;
+    line-height: 1.5;
+    text-align: left;
+    padding: 0 0 0 2px;
+    text-align: center;
+  }
+
+  .divya {
+    max-width: 390px;
+  }
+
+  .morjim {
+    font-size: 12px;
+  }
+
+  .two {
+    max-width: 80vw;
+  }
+
+  .createaccountdiv {
+    width: 70vw;
+
+  }
+
+  @media screen and (max-width: 921px) {
+    .grid {
+      width: 80%;
+    }
+  }
+
+}
+
+@media screen and (max-width: 462px) {
+  .jadu {
+    height: 30vh;
+  }
+}
+
+@media screen and (max-width: 627px) {
+  .doll {
+    display: none;
+  }
+}
+
+
+
+.facebook {
+  padding: 8px 10px;
+  margin: 0 1px 0 0;
+  font: 14px lato, arial;
+  color: #fff;
+  text-align: center;
+  background-color: #3b5998;
+  cursor: pointer;
+  border-radius: 2px;
+  display: inline-block;
+  margin-bottom: 4px;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+
+.twit {
+
+  padding: 8px 10px;
+  margin: 0 1px 0 0;
+  font: 14px lato, arial;
+  color: #fff;
+  text-align: center;
+  background-color: #3b5998;
+  cursor: pointer;
+  border-radius: none;
+  display: inline-block;
+  margin-bottom: 4px;
+  background: #55acee;
+  text-decoration: none;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+
+}
+
+.pin {
+  padding: 8px 10px;
+  margin: 0 1px 0 0;
+  font: 14px lato, arial;
+  color: #fff;
+  text-align: center;
+  background-color: #3b5998;
+  cursor: pointer;
+  border-radius: 2px;
+  display: inline-block;
+  margin-bottom: 4px;
+  background: #d4374f;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+
+.tum {
+  background: #243a4f;
+  padding: 8px 10px;
+  margin: 0 1px 0 0;
+  font: 14px lato, arial;
+  color: #fff;
+  text-align: center;
+  background-color: #3b5998;
+  cursor: pointer;
+  border-radius: 2px;
+  display: inline-block;
+  margin-bottom: 4px;
+  margin-left: 0.3rem;
+  margin-right: 0.3rem;
+}
+
+
+/*@media screen and (min-width: 627px) {
+
+  .rename {
+    max-width: 70%;
+  }
+
+
+  .daku {
+    max-width: 70%;
+  }
+
+  .john {
+    max-width: 70%;
+  }
+
+  .rakesh{
+ 
+  }
+
+}
+
+@media screen and (min-width: 1020px) {
+
+  .rename {
+    max-width: 60%;
+  }
+
+  .rename {
+    max-width: 60%;
+  }
+
+  .john {
+    max-width: 60%;
+  }
+
+
+}
+
+
+@media screen and (min-width: 1204px) {
+
+  .rename {
+    max-width: 50%;
+  }
+
+  .daku {
+    max-width: 50%;
+  }
+
+  .john {
+    max-width: 50%;
+  }
+
+
+}
+
+@media screen and (min-width: 1424px) {
+
+  .rename {
+    max-width: 40%;
+  }
+
+  .daku {
+    max-width: 40%;
+  }
+
+  .john {
+    max-width: 40%;
+  }
+
+}*/
+
+
+@media only screen and (max-width: 731px) {
+  body {
+    background-color: ;
+  }
+}
+
+
+@media only screen and (max-width: 731px) {
+  .rakesh {
+    max-width: 16rem;
+  }
+
+  .arjun {
+    max-width: 16rem;
+  }
+}
+
+@media only screen and (max-width: 843px) {
+  .rakesh {
+    max-width: 19rem;
+  }
+
+  .arjun {
+    max-width: 19rem;
+  }
+}
+
+@media only screen and (max-width: 394px) {
+  .rakesh {
+    max-width: 13rem;
+
+  }
+
+  .arjun {
+    max-width: 13rem;
+  }
+
+  .sex {
+    font-size: 13 px;
+  }
+}
+
+
+@media only screen and (max-width: 424px) {
+  .vicky {
+    display: block;
+  }
+}
+
+.dighi {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.dighi {
+  background-color: #2c87c5;
+  font: normal 15px lato, arial;
+  border-radius: none;
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  border: none;
+  padding: 2px 3px;
+}
+
+.renuka {
+  float: left;
+  align-items: flex-start;
+  text-align: left;
+  float: left;
+  color: white;
+  background-color: #2c87c5;
+  border: none;
+  font-size: bold;
+  padding: 8px 5px;
+  border-radius: 4px;
+}
+
+.vivek {
+  align-items: flex-end;
+  text-align: right;
+  float: right;
+  color: white;
+  background-color: #2c87c5;
+  border: none;
+  font-weight: bold;
+  font-size: 0.8rem;
+  padding: 10px 12px;
+  border-radius: 4px;
+}
+
+
+.mango {
+  margin-left: 6rem;
+  left: 6rem;
+  color: white;
+  background-color: #55acee;
+  border-color: transparent;
+  padding: 8px 11px 8px;
+  font: bold;
+  border-radius: 8px;
+
+
+}
+
+
+@media only screen and (max-width: 590px) {
+  .pastetheurl {
+    font-size: 1.6rem;
+  }
+
+  .padingchange {
+    padding-top: 20px;
+  }
+
+  .stylechnage {
+    font-size: 15px;
+  }
+
+  .don {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 444px) {
+  .pastetheurl {
+    font-size: 1.5rem;
+  }
+
+  .stylechnage {
+    font-size: 14px;
+  }
+
+}
+
+@media only screen and (max-width: 432px) {
+  .pastetheurl {
+    font-size: 1.3rem;
+  }
+}
+
+
+@media only screen and (max-width: 396px) {
+  .pastetheurl {
+    font-size: 1.2rem;
+  }
+
+  .stylechnage {
+    font-size: 13px;
+  }
+}
+
+/*.jadu {
+  height: 16rem;
+}*/
+
+@media only screen and (max-width: 416px) {
+
+  .jadu {
+    height: 18rem;
+  }
+}
+
+
+.mangos {
+  margin-left: 2rem;
+  left: 6rem;
+  color: white;
+  background-color: #f03c3c;
+  border-color: transparent;
+  padding: 8px 11px 8px;
+  font: bold;
+  border-radius: 8px;
+
+}
+
+
+hr {
+
+  display: none;
+}
+
+.foot {}
+
+/*@media only screen and (max-width: 972px) {
+
+
+  .vaishu  li {
+    display: block;
+   flex-direction: column; 
+  }
+}*/
+
+/*.vaishu li {
+  display: block;
+  flex-direction: column;
+  text-decoration: none;
+  list-style: none;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-right: 7px;
+  font: 16px asap, arial;
+  color: #0093ff;
+  letter-spacing: 0;
+} */
+
+.vaishu {
+  padding-left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media only screen and (max-width: 922px) {
+  .frog {
+    display: inline-block;
+  }
+
+  .vaishu {
+    display: inline-block;
+  }
+
+  /*.vaishu ul li {
+    display: inline-block;
+  }*/
+  hr {
+    display: block;
+    padding-left: 90vw;
+    color: black;
+    background-color: black;
+  }
+
+  .vaishu li {}
+
+}
+
+
+@media only screen and (max-width: 544px) {
+  .lion {
+    font-size: 0.9rem;
+  }
+}
+
+
+@media only screen and (max-width: 640px) {
+
+  /* .fontwo{
+    font-size: 0.9rem;
+  }*/
+
+  hr {
+    padding-left: 80vw;
+  }
+
+  .vaishu{
+    margin-left: 1rem;
+  }
+}
+
+
+@media only screen and (max-width: 350px) {
+
+  hr {
+    padding-left: 70vw;
+  }
+  .vaishu{
+    margin-left: 1rem;
+  }
+   
+}
+
+/*.vaishu li {
+  border-bottom: 1px solid black;
+  padding-bottom: 0.5rem;
+  padding-right: 10rem;
+}
+
+/*@media only screen and (max-width: 641px) {
+
+  .fontwo{
+  
+  }
+}*/
+
